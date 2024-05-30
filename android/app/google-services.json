@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59583636175",
+    "project_id": "studiovie-10d37",
+    "storage_bucket": "studiovie-10d37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59583636175:android:6991f29c2dde1621320dba",
+        "android_client_info": {
+          "package_name": "com.design.studiovie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvHNirhRfP-3er_6GMak_gwzBv9K-yaj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
